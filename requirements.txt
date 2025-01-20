@@ -11,6 +11,7 @@ cryptography==44.0.0
 decorator==5.1.1
 Flask==2.2.5
 Flask-Cors==5.0.0
+gunicorn
 gitdb==4.0.12
 GitPython==3.1.44
 idna==3.10
